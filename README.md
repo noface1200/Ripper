@@ -18,4 +18,4 @@ The generated invites won't be in URL format. Instead, they will be provided to 
 3. Run the provided function.
 4. Complete the captcha when prompted.
 
-# Credits: Special thanks to Me/Noface1200 on Discord for all the code and effort.
+Credits: Special thanks to Me/Noface1200 on Discord for all the code and effort.
