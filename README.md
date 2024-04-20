@@ -1,6 +1,6 @@
 # Ripper Basics
 
-Ripper is a Discord invite generation tool capable of generating 100 invites per second. To ensure smooth operation, it's recommended to use a VPN to bypass rate limiting. Although I'm working on integrating a built-in proxy, this feature won't be available in the near future.
+Ripper is a Discord invite generation tool capable of generating 100 invites per second. To ensure smooth operation, it's recommended to use a VPN to bypass rate limiting. Although I'm working on integrating a built-in proxy, this feature won't be available until the near future.
 
 # Setup Instructions
 
